@@ -1,0 +1,4 @@
+Differential linear logic, introduced by Ehrhard and Regnier, is an extension of linear logic with a differentiation operation. It is interesting both from a syntactic point of view, since it leads to a new technique to study λ-calculus (Taylor series expansion of λ-terms), and a semantical one, as its models are naturally-occurring categories in in which morphisms can be differentiated. The talk will present a new model of differential linear logic, based on Joyal’s analytic functors, which are a functorial counterpart of exponential power series. This model can be understood as a ‘categorified’ version of the relational model of Linear Logic. 
+
+The material is based on joint work with M. Fiore and M. Hyland. 
+Reference: https://arxiv.org/abs/2405.05774.

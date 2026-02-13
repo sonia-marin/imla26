@@ -1,0 +1,1 @@
+The Ziegler spectrum of a ring is a topological space which encodes much of the model theoretic (and algebraic) information about the module category of a ring. In this talk I'll introduce this space, discuss some of it properties and give some examples of its use in model theory of modules.

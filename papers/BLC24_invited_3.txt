@@ -1,0 +1,8 @@
+Feferman proved in 1962 that any arithmetical theorem is
+a consequence of a suitable transfinite iteration of full uniform reflection of PA. This result is commonly known as Feferman's completeness
+theorem. The purpose of this talk is to give two new proofs of Feferman's completeness theorem that, we hope, shed new light on this mysterious and often overlooked
+result. Moreover, one of the proofs
+furnishes sharp bounds on the order
+types of well-orders necessary to attain completeness. 
+
+joint work with Fedor Pakhomov and Dino Rossegger

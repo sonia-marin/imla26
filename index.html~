@@ -1,0 +1,1079 @@
+
+
+
+<!-- Many thanks to Cláudia Nalon for the initial design of this webpage, and for letting me use it! The original template was used for TABLEAUX 2017: http://tableaux2017.cic.unb.br/ . -->
+<!-- Webmaster: Anupam Das. a.das@bham.ac.uk -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>British Logic Colloquium 2024</title>
+    <link href="index_files/conferences.css" rel="stylesheet" type="text/css">
+    <link href="index_files/css.css" rel="stylesheet" type="text/css">
+    <!-- <script type="text/javascript" src="index_files/jquery.html"></script> -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+<style id="2023-24_9234_Styles"><!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font59234
+	{
+	font-size:16px;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+.font69234
+	{
+	font-size:16px;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+.xl159234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl669234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl679234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl689234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl699234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#FCE4D6;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl709234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	background:#FCE4D6;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl719234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl729234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:#D9E1F2;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl739234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl749234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl759234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:#E2EFDA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl769234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFF2CC;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl779234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFF2CC;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl789234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFF2CC;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl799234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#D9E1F2;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl809234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#FCE4D6;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl819234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#D9E1F2;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl829234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#FFF2CC;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl839234
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size:16px;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#E2EFDA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl849234
+	{
+	font-size:16px;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFF2CC;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-left:5px;
+	mso-char-indent-count:1;}
+.xl859234
+	{
+	font-size:16px;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFF2CC;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-left:5px;
+	mso-char-indent-count:1;}
+.xl869234
+	{
+	font-size:16px;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;
+	padding-left:5px;
+	mso-char-indent-count:1;}
+--></style>
+  </head>
+
+  <body dir="ltr" lang="en-GB">
+    <header>
+	<div id="title">
+	<h1 style="margin-bottom: 15px;">BLC 2024</h1>
+<span style="float: left; vertical-align: baseline;">Annual meeting of the British Logic Colloquium</span>
+<span style="float: right; vertical-align: baseline; font-size: 18px; font-weight: bold;">
+5-7 September. Birmingham, UK.
+</span>
+	</div>	
+      <div id="logo" style="margin-top: 5px;">
+	<img src="index_files/aerial-view-cropped.jpg" title="Proof Society 2024" width="100%">
+      </div>
+      <div id="main-menu">
+	<table class="center" style="background:#a25841;"><tbody><tr><td>
+	      <ul style="margin-top: 5px; margin-bottom: 5px;">
+		<li style="border-left:none;"><a href="#home">General Info</a></li>
+		<li><a href="#venue">Venue</a></li>
+		<li><a href="#is">Invited Speakers</a></li>
+		<li><a href="#program">Program</a></li>
+		<li><a href="#submissions">Submissions</a></li>
+		<li><a href="#dates">Dates</a></li>
+		<li><a href="#colocation">Colocation</a></li>
+   		<li><a href="#registration">Registration</a></li>
+		<!-- <br> -->
+		<li><a href="#local">Local Info</a></li>
+		<!--   		  <li><a href="#program">Program</a></li> -->
+		<li><a href="#pc">Program Committee</a></li>
+		<li><a href="#organisation">Organisation</a></li>
+		<li><a href="#contact">Contact</a></li>
+		<li><a href="#sponsorship">Sponsorship</a></li>
+	      </ul>
+	</td></tr></tbody></table>
+      </div>
+    </header>
+    
+      <div id="home">
+	<div class="content">
+	  <h2 style="padding-top: 16px;">General Information</h2>
+		
+	  <p>
+	    The annual meeting of the <a href="https://www.blc-logic.org/">British Logic Colloquium</a> will be organised by the University of Birmingham from Thursday 5th September afternoon to Saturday 7th September morning.
+	  </p><p>
+	    The programme will include invited and contributed talks on a range of topics including (but not restricted to) proof theory, set theory, model theory, computability and complexity, logical aspects of computer science, and philosophy of mathematics. 
+	  </p>
+	
+	</div>
+      </div>
+
+      <div id="venue"> 
+	 <div class="content"> 
+	   <h2>Venue</h2> 
+	<p>
+	BLC24 will be held on the Lower Ground floor in the <a href="https://maps.app.goo.gl/ZjWDRTDtY3ner8jG6">Old Gym building</a> on the Edgbaston campus of the University of Birmingham.
+	</p>
+	 </div> 
+	 </div>
+
+      <div id="is"> 
+	 <div class="content"> 
+	   <h2>Invited Speakers</h2> 
+	   <ul>
+	     <li> <a href="https://www.cs.bham.ac.uk/~mhe/">Martin Escardo</a> (University of Birmingham) <br>
+	     <i>Topology in constructive mathematics and computation</i></li>
+	     <li> <a href="https://personalpages.manchester.ac.uk/staff/nicola.gambino/">Nicola Gambino</a> (University of Manchester) <br>
+	     <i>Monoidal bicategories, differential linear logic, and analytic functors</i></li>
+	     <li> <a href="https://lorna-gregory.netlify.app/">Lorna Gregory</a> (University of East Anglia) <br>
+	     <i>Ziegler Spectra</i></li>
+	     <li> <a href="https://karagila.org/">Asaf Karagila</a> (University of Leeds) <br>
+	     <i>Why large cardinals?</i></li>
+	     <li> <a href="http://www.magidor.com/">Ofra Magidor</a> (University of Oxford) <br>
+	     <i>New Zeno and the logic of counterfactuals</i></li>
+	     <li> <a href="http://webdiis.unizar.es/~elvira/">Elvira Mayordomo</a> (Universidad de Zaragoza and Iowa State University) <br>
+	     <i>On information theory in geometric measure theory</i></li>
+	     <li> <a href="https://eps.leeds.ac.uk/maths/staff/4073/professor-michael-rathjen">Michael Rathjen</a> (University of Leeds) <br>
+	     <i>Feferman's completeness theorem</i></li>
+	     <!--<li> (TBC) </li>-->
+		</ul>
+	 </div> 
+      </div>
+
+      <div id="program">
+	<div class="content">
+	  <h2>Program</h2>
+	    
+ <table align=left border=0 cellpadding=0 cellspacing=0 width=800 style='border-collapse:
+ collapse;table-layout:fixed; margin-bottom: 40px'>
+
+ <col class=xl669234 width=50 style='mso-width-source:userset;mso-width-alt:2884'>
+ <col width=85 style='mso-width-source:userset;mso-width-alt:7645'>
+ <col class=xl159234 width=200 style='mso-width-source:userset;mso-width-alt:12782'>
+ <col width=90 style='mso-width-source:userset;mso-width-alt:7645'>
+ <col width=200 style='mso-width-source:userset;mso-width-alt:12782'>
+
+ <tr height=28 style='mso-height-source:userset;height:21.0pt'>
+ <td colspan=5 height=28 class=xl689234 width=1283 style='height:21.0pt;width:961pt'>Thursday 5 September</td>
+ </tr>
+
+ <tr height=10>
+  <td class=xl689234 width=85 style='width:63pt'></td>
+  <td class=xl689234 width=224 style='width:168pt'></td>
+  <td class=xl689234 width=375 style='width:281pt'></td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl679234 width=375 style='width:281pt'></td>
+ </tr>
+
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>12:30 - 14:00.</td>
+  <td colspan=4 class=xl729234 width=1198 style='width:898pt'>Lunch and Registration (LG11)</td>
+ </tr>
+ 
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td> <!--xl809234-->
+  <td colspan=4 class=xl709234 width=1198 style='width:898pt'>Invited talk I1 (LG06)</td>
+ </tr>
+
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'> 14:00 - 14:50.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Lorna Gregory</td>
+  <td colspan=3 class=xl719234 width=974 style='width:730pt'><a href="papers/BLC24_invited_1.txt">Ziegler Spectra</a></td>
+ </tr>
+
+ <tr height=28 style='mso-height-source:userset;height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=2 class=xl769234 width=599 style='width:449pt'>Contributed talks A1 (LG06)</td>
+<!--  <td class=xl779234 width=375 style='width:281pt'></td> -->
+  <td colspan=2 class=xl849234 width=599 style='width:449pt'>Contributed talks B1 (LG09)</td>
+<!--  <td class=xl789234 width=375 style='width:281pt'></td> -->
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>14:50 - 15:10.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Calliope Ryan-Smith</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_1.pdf">The Hartogs-Lindenbaum Spectrum of symmetric extensions</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Greg Restall</td>
+  <td class=xl719234 width=375 style='width:281pt'><a href="papers/BLC24_paper_17.pdf">Models for Identity in Three-Valued Logics</a></td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>15:10 - 15:30.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Sourayan Banerjee</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_4.pdf">Model-theoretic K_1 of free modules over PIDs</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Sayantan Roy</td>
+  <td class=xl719234 width=375 style='width:281pt'><a href="papers/BLC24_paper_12.pdf">On Inferential Many-valuedness, Many-valued Logical Structures and Suszko’s Thesis</a></td>
+ </tr>
+
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>15:30 - 16:00.</td>
+  <td colspan=4 class=xl729234 width=1198 style='width:898pt'>Coffee break (LG11)</td>
+</tr>
+
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=4 class=xl709234 width=1198 style='width:898pt'>Invited talk I2 (LG06)</td>
+ </tr>
+
+<tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'> 16:00 - 16:50.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Asaf Karagila</td>
+  <td colspan=3 class=xl719234 width=974 style='width:730pt'><a href="papers/BLC24_invited_2.txt">Why large cardinals?</a></td>
+</tr>
+
+<tr height=28 style='mso-height-source:userset;height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=2 class=xl769234 width=599 style='width:449pt'>Contributed talks A2 (LG06)</td>
+  <td colspan=2 class=xl849234 width=599 style='width:449pt'>Contributed talks B2 (LG09)</td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>16:50 - 17:10.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Owain Griffin</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_2.pdf">Is Functionalism Inconsistent?</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Mehrnoosh Sadrzadeh</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_8.pdf">Lambek Calculus with Banged Atoms for Parasitic Gaps</a></td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>17:10 - 17:30.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Matteo de Ceglie</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_16.pdf">The Good Company problem</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Stepan Kuznetsov</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_23.pdf">Complexity for Kleene and action algebras with commutativity</a></td>
+ </tr>
+
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'></td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl679234 width=375 style='width:281pt'></td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl679234 width=375 style='width:281pt'></td>
+ </tr>
+
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>17:40 - 18:30.</td>
+  <td colspan=4 class=xl759234 width=1198 style='width:898pt'>BLC annual meeting (LG06)</td>
+ </tr>
+
+ <tr height=40>
+  <td class=xl679234 width=85 style='width:63pt'></td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl679234 width=375 style='width:281pt'></td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl679234 width=375 style='width:281pt'></td>
+ </tr>
+
+ <tr height=28 style='mso-height-source:userset;height:21.0pt'>
+  <td colspan=5 height=28 class=xl689234 width=1283 style='height:21.0pt;width:961pt'>Friday 6 September</td>
+ </tr>
+ 
+ <tr height=10>
+  <td class=xl689234 width=85 style='width:63pt'></td>
+  <td class=xl689234 width=224 style='width:168pt'></td>
+  <td class=xl689234 width=375 style='width:281pt'></td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl679234 width=375 style='width:281pt'></td>
+ </tr>
+
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=4 class=xl709234 width=1198 style='width:898pt'>Invited talk I3 (LG06)</td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>09:40 - 10:30.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Michael Rathjen</td>
+  <td colspan=3 class=xl719234 width=974 style='width:730pt'><a href="papers/BLC24_invited_3.txt">Feferman's completeness theorem</a></td>
+ </tr>
+ 
+<tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>10:30 - 11:00.</td>
+  <td colspan=4 class=xl729234 width=1198 style='width:898pt'>Coffee break (LG11)</td>
+</tr>
+
+<tr height=28 style='mso-height-source:userset;height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=2 class=xl769234 width=599 style='width:449pt'>Contributed talks A3 (LG06)</td>
+  <td colspan=2 class=xl849234 width=599 style='width:449pt'>Contributed talks B3 (LG09)</td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>11:00 - 11:20.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Justus Becker</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_20.pdf">Some Proof Translations for Intuitionistic Modal Logic</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Paul Taylor</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_13.pdf">A Fixed Point Theorem for Categories</a></td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>11:20 - 11:40.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Kiana Samadpour Motalebi</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_26.pdf">Refined Tableau Systems for Modal Logics of Confluence</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Jonathan Kirby</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_18.pdf">Up with Categories, Down with Sets; Out with Categories, In with Sets!</a></td>
+ </tr>
+
+ <tr height=28 style='mso-height-source:userset;height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=4 class=xl679234 width=599 style='width:449pt'></td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>11:50
+  - 12:10.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Abhishek De</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_14.pdf">The proof theory of pro-aperiodic terms</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Daniel Leivant</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_5.pdf">Finitism bottom-up: a vidication of Tait's Thesis</a></td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>12:10
+  - 11:40.</td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl749234 width=375 style='width:281pt'></td>
+  <td class=xl869234 width=224 style='width:168pt'>Beatrice Buonaguidi</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_6.pdf">Classes in HYPE</a></td>
+ </tr>
+ 
+  <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>12:30 - 14:00.</td>
+  <td colspan=4 class=xl729234 width=1198 style='width:898pt'>Lunch (LG11)</td>
+ </tr>
+
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=4 class=xl709234 width=1198 style='width:898pt'>Invited talk I4 (LG06)</td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>14:00 - 14:50.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Ofra Magidor</td>
+  <td colspan=3 class=xl719234 width=974 style='width:730pt'><a href="papers/BLC24_invited_4.txt">New Zeno and the logic of counterfactuals</a></td>
+ </tr>
+
+ <tr height=28 style='mso-height-source:userset;height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=2 class=xl769234 width=599 style='width:449pt'>Contributed talks A4 (LG06)</td>
+  <td colspan=2 class=xl849234 width=599 style='width:449pt'>Contributed talks B4 (LG09)</td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>14:50 - 15:10.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Fabian Pregel</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_10.pdf">Is Logical Consequence A Relation Between Fregean Propositions?</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Daumantas Kojelis</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_19.pdf">Ordered Fragments of First-Order Logic or: How To Make Your Favourite Logic Decidable?</a></td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>15:10 - 15:30.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Amit Pinsker</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_21.pdf">Logic, Natural Language and Semantic Paradoxes</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Dimitrios Tsintsilidas</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_9.pdf">Provability of the Circuit Size Hierarchy and Its Consequences</a></td>
+ </tr>
+
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>15:30 - 16:00.</td>
+  <td colspan=4 class=xl729234 width=1198 style='width:898pt'>Coffee break (LG11)</td>
+</tr>
+
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=4 class=xl709234 width=1198 style='width:898pt'>Invited talk I5 (LG06)</td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>16:00 - 16:50.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Martin Escardo</td>
+  <td colspan=3 class=xl719234 width=974 style='width:730pt'><a href="papers/BLC24_invited_5.txt">Topology in constructive mathematics and computation</a></td>
+ </tr>
+
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl679234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=4 class=xl679234 width=1198 style='width:898pt'></td>
+ </tr>
+
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>17:00 - 18:00.</td>
+  <td colspan=4 class=xl759234 width=974 style='width:730pt'>Round table about Logic education in the U.K. (LG06)</td>
+ </tr>
+
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl679234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=4 class=xl679234 width=1198 style='width:898pt'></td>
+ </tr>
+
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>19:00 - late.</td>
+  <td colspan=4 class=xl729234 width=974 style='width:730pt'>Social dinner at the <a href="https://www.indianbrewery.com">Indian Brewery Snowhill</a> (<a href="https://maps.app.goo.gl/aAnHetMXpccooUmM8">Livery St, B3 1EU</a>)</td>
+ </tr>
+
+ <tr height=40>
+  <td class=xl679234 width=85 style='width:63pt'></td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl679234 width=375 style='width:281pt'></td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl679234 width=375 style='width:281pt'></td>
+ </tr>
+
+ <tr height=28 style='mso-height-source:userset;height:21.0pt'>
+  <td colspan=5 height=28 class=xl689234 width=1283 style='height:21.0pt;
+  width:961pt'>Saturday 7 September</td>
+ </tr>
+ 
+ <tr height=10>
+  <td class=xl689234 width=85 style='width:63pt'></td>
+  <td class=xl689234 width=224 style='width:168pt'></td>
+  <td class=xl689234 width=375 style='width:281pt'></td>
+  <td class=xl679234 width=224 style='width:168pt'></td>
+  <td class=xl679234 width=375 style='width:281pt'></td>
+ </tr>
+
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl689234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=4 class=xl709234 width=1198 style='width:898pt'>Invited talk I6 (LG06)</td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>09:40 - 10:30.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Elvira Mayordomo</td>
+  <td colspan=3 class=xl719234 width=974 style='width:730pt'><a href="papers/BLC24_invited_6.pdf">On information theory in geometric measure theory</a></td>
+ </tr>
+ 
+<tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>10:30 - 11:00.</td>
+  <td colspan=4 class=xl729234 width=1198 style='width:898pt'>Coffee break (LG11)</td>
+</tr>
+
+ <tr height=28 style='height:21.0pt'>
+  <td height=28 class=xl689234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=4 class=xl709234 width=1198 style='width:898pt'>Invited talk I7 (LG06)</td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>11:00 - 11:50.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Nicola Gambino</td>
+  <td colspan=3 class=xl719234 width=974 style='width:730pt'><a href="papers/BLC24_invited_7.txt">Monoidal bicategories, differential linear logic, and analytic functors</a></td>
+ </tr>
+
+<tr height=28 style='mso-height-source:userset;height:21.0pt'>
+  <td height=28 class=xl739234 width=85 style='height:21.0pt;width:63pt'>&nbsp;</td>
+  <td colspan=2 class=xl769234 width=599 style='width:449pt'>Contributed talks A5 (LG06)</td>
+  <td colspan=2 class=xl849234 width=599 style='width:449pt'>Contributed talks B5 (LG09)</td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>11:50
+  - 12:10.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Matteo Spadetto</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_27.pdf">Higher dimensional semantics of propositional theories of dependent types</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Will Stafford</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_7.pdf">Proof-theoretic validity for sequents</a></td>
+ </tr>
+ 
+ <tr height=56 style='height:42.0pt'>
+  <td height=56 class=xl739234 width=85 style='height:42.0pt;width:63pt'>12:10
+  - 12:30.</td>
+  <td class=xl679234 width=224 style='width:168pt'>Steve Vickers</td>
+  <td class=xl749234 width=375 style='width:281pt'><a href="papers/BLC24_paper_11.pdf">Real analysis via logic</a></td>
+  <td class=xl869234 width=224 style='width:168pt'>Sophie Nagler</td>
+  <td class=xl739234 width=375 style='width:281pt'><a href="papers/BLC24_paper_22.pdf">Measuring Meaning: An Introduction to Behavioural Inferentialism</a></td>
+ </tr>
+
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=85 style='width:63pt'></td>
+  <td width=224 style='width:168pt'></td>
+  <td width=375 style='width:281pt'></td>
+  <td width=224 style='width:168pt'></td>
+  <td width=375 style='width:281pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+</div>
+
+
+      <div id="submissions">
+	<div class="content">
+	  <h2>Submissions</h2>
+	  
+	  <p>
+	    The programme committee invites abstracts for contributed talks of up to <b>1 page (excluding bibliography)</b>.
+	    These can be on published or unpublished work, as well as work in progress. We especially encourage students and early-career researchers to present their work.
+	    </p><p>
+	    There are no formal published proceedings, but accepted abstracts will be made available for the meeting. Please submit your abstracts via EasyChair:
+	    <!-- <br style="margin-bottom: 10px;"> -->
+          <a href="https://easychair.org/conferences/?conf=blc24">https://easychair.org/conferences/?conf=blc24</a>
+	  </p>
+	</div>
+      </div>
+
+      
+      
+      <div id="dates">
+
+	<div class="content">
+	  <h2>Important Dates</h2>
+	  <ul>
+	    <li>
+	      <b>Abstract deadline:</b> 10 July 2024 </li>
+	      <!-- <del>17 May 2024</del> <b style="color: red;">24 May 2024</b> <a href="https://www.timeanddate.com/time/zones/aoe">AoE</a> (<i>extended</i>)</li> </li> -->
+	    <li><b>Notification:</b> 31 July 2024 </li>
+            <li><b>Final versions:</b> <del>10 August 2024</del>  <b style="color: red;">16 August 2024</b> (<i>extended</i>) </li>
+            <li><b>Registration deadline:</b> 19 August 2024 </li>
+	    <li><b>Colloquium:</b> 5-7 September 2024</li>
+	  </ul>
+	  <p></p>
+       </div>
+       </div>
+
+
+        <div id="colocation">
+	<div class="content">
+	  <h2>Colocation with Proof Society</h2>
+	  
+	  <p>
+	   BLC24 will be colocated with the <a href="https://proofsociety2024.com/">Proof Society International School and Workshop 2024</a>, taking place <b>9-13 September</b>.
+	  </p>
+	</div>
+      </div>
+	  	  
+
+
+	<div id="registration">
+	<div class="content">
+	  <h2>Registration</h2>
+	  <!--
+	<p>Registration is now open via the online shop <b>until 2 August 2024</b>: <br> 
+	<a href="https://shop.bham.ac.uk/conferences-and-events/college-of-engineering-physical-sciences/school-of-computer-science/computer-science-courses-events/proof-society">https://shop.bham.ac.uk/conferences-and-events/college-of-engineering-physical-sciences/school-of-computer-science/computer-science-courses-events/british-logic-colloquium</a>
+	</p>
+	-->
+	Registration is now open via <a href="https://shop.bham.ac.uk/conferences-and-events/college-of-engineering-physical-sciences/school-of-computer-science/computer-science-courses-events/british-logic-colloquium-2024">the online shop </a> <b>until 19 August 2024</b>.<br>
+	
+	The registration prices, which include lunches on Thursday and Friday and coffee breaks, are:
+	<ul>
+		<li>Standard: £55 </li>
+		<li>BLC member: £45 </li>
+		<li>Student: £25 </li> 
+	</ul> 
+	  <p>
+	   On Friday there will be a conference dinner organised at <a href="https://www.indianbrewery.com">Indian Brewery Snowhill</a>.
+	   <!-- The cost will be £25. -->
+	   You will have the option to add it to your registration.
+	  </p><p>
+	    If you would like to attend but do not have access to funding to support your participation, contact the organisers at the earliest opportunity.
+	    </p>
+	</div>
+	</div>
+
+       
+
+       <div id="local">
+	 <div class="content"> 
+	   <h2>Local Information</h2>
+	   <p>
+	     <h4>Travel</h4>
+	     The <a href="https://maps.app.goo.gl/9WFpuMR926qiavwNA">University of Birmingham station</a> is served from Birmingham City Centre by local trains via <a href"https://maps.app.goo.gl/yXf1nDc1fSbhiK3v7">New Street station</a> as well as several local buses. In general, Google Maps is reliable to find your way around, but unreliable regarding timetables. 
+	   </p>
+	   
+	   <p>
+	     <h4>Accomodation</h4>
+	     <p>
+	   <a href="https://www.edgbastonparkhotel.com/">Edgbaston Park Hotel</a>, the University of Birmingham's hotel, provides accomodation and dining on the Edgbaston campus.
+	   </p>
+	     A range of alternative options are available either in Edgbaston,
+	     such as <a href="https://edgbastonhouse.co.uk/">Edgbaston House</a> and
+	     <a href="https://www.highfieldedgbaston.co.uk/boutique-hotel-stay-birmingham/">The High Field Town House</a>,
+	     or in Birmingham's City Centre, including
+	     <a href="https://all.accor.com/hotel/1459/index.en.shtml">ibis Birmingham New Street Station</a>,
+	     <a href="https://www.travelodge.co.uk/hotels/331/Birmingham-Central-Broadway-Plaza-hotel">Travelodge Birmingham Central Broadway Plaza</a>,
+	     and <a href="https://all.accor.com/hotel/5678/index.en.shtml">ibis budget Birmingham Centre</a>.
+	     </p><p>
+	   Many other options can also be found on the usual accommodation websites such as <a href="http://booking.com/">Booking</a>, <a href="https://www.airbnb.com/">AirBnB</a>, etc.
+	    </p>
+	 </div> 
+       </div>
+
+<!--
+	<div id="program">
+	 <div class="content"> 
+	   <h2>Program</h2>
+
+	 </div> 
+       </div> 
+-->	
+
+	
+	
+      <div id="pc">
+
+	<div class="content">
+	  <h2>Program Committee</h2>
+<p>
+Anupam Das (University of Birmingham) <br>
+Paul Blain Levy (University of Birmingham) <br>
+Sonia Marin (University of Birmingham) <br>
+Omar Leon Sanchez (University of Manchester) <br>
+Paul Shafer (University of Leeds) <br>
+Sara Uckelman (Durham University)
+</p>
+
+	</div>
+      </div>
+	  
+
+	  
+      <div id="organisation">
+	<div class="content">
+	  <h2>Local Organisation</h2>
+	  <p> 
+	      Anupam Das<br>
+	      Abhishek De<br>
+	      Iris van der Giessen <br>
+	      Jamie Hough <br>
+	      Paul Levy <br>
+	      Sonia Marin<br>
+	      Lukas Melgaard<br>
+	      Paaras Padhiar
+	  </p>
+	</div>
+      </div>
+      
+    <div id="contact">
+        <div class="content">
+            <h2>Contact</h2>
+            <p>Any queries should be sent by email to <a href="mailto:blc24@easychair.org">blc24@easychair.org</a>.</p>
+        </div>
+    </div>
+    
+    
+    <div id="sponsorship">
+        <div class="content">
+            <h2>Sponsorship and support</h2>
+            <p>
+            <img height="55px" src="uob.png" style="margin-right: 20px; margin-top: 5px;">
+            <img height="60px" src="ukri.png">
+	    <img height="55px" src="blc.png">
+            </p>
+        </div>
+    </div>
+	  
+
+
+
+      <div class="content">
+	<div class="footnote">
+    <br>
+    <p>
+	<hr style="border: 1px solid #aaa;">
+
+  Maintained by <a href="http://www.filipendule.github.io/">Sonia Marin</a>. Last updated
+	    <script language="Javascript">
+	      var date = new Date(document.lastModified);
+	      document.write("" + date.getDate() + "/" + (date.getMonth()+1) + "/" + date.getFullYear() );
+	    </script>
+	  </p>
+	</div>
+      </div>
+      
+</div>
+ 
+
+</body></html>
