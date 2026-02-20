@@ -1,0 +1,39 @@
+********************************************************************
+8th Workshop on Intuitionistic Modal Logic and Applications (IMLA)
+24–25 July 2026, Lisbon, Portugal
+Affiliated with the Federated Logic Conference (FLoC 26)
+https://sonia-marin.github.io/imla26/
+
+Constructive and intuitionistic modal logics, and their connections with type theory and computation, remain foundationally and practically significant in computer science, logic, and related areas. These include applications in type disciplines, meta-logics for computational phenomena, and explanatory frameworks in philosophical logic. The workshop aims to explore theoretical and methodological issues at the intersection of constructive proof theory and modal semantics, as well as practical questions about which modal connectives and rules best capture computational phenomena at appropriate levels of abstraction. 
+
+**Invited speakers**
+- Ranald Clouston (ANU, Canberra, Australia)
+- Brigitte Pientka (McGill University, Montreal, Canada)
+- More to be confirmed.
+
+**Submissions**
+We invite abstracts for contributed talks of up to *2 pages* (excluding bibliography). They may describe published work, unpublished work, or work in progress. We especially encourage submissions from students and early-career researchers. 
+
+Accepted abstracts will be made available for the workshop; there are no formal published proceedings at this time, but the organisers will explore options for post-workshop proceedings. 
+
+Abstracts should be submitted via the workshop’s submission page:
+https://submissions.floc26.org/imla/
+
+At least one author of each accepted submission is expected to register and attend the workshop at FLoC 26.
+
+**Important Dates**
+* Abstract submission deadline:** 23 April 2026
+* Notification of acceptance:** 23 May 2026
+* Final versions: To be announced
+* Early registration deadline: 1 June 2026
+* Workshop dates: 24–25 July 2026 
+
+**Program Committee**
+- Marianna Girlando 
+- Sonia Marin (co-chair)       
+- Valeria de Paiva  (co-chair)
+- Ian Shilito       
+- Nachi Valiappan   
+- More to be confirmed.
+
+********************************************************************
