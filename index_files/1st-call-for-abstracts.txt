@@ -22,11 +22,11 @@ https://submissions.floc26.org/imla/
 At least one author of each accepted submission is expected to register and attend the workshop at FLoC 26.
 
 **Important Dates**
-* Abstract submission deadline:** 23 April 2026
-* Notification of acceptance:** 23 May 2026
-* Final versions: To be announced
-* Early registration deadline: 1 June 2026
-* Workshop dates: 24–25 July 2026 
+- Abstract submission deadline: 23 April 2026
+- Notification of acceptance: 23 May 2026
+- Final versions: To be announced
+- Early registration deadline: 1 June 2026
+- Workshop dates: 24–25 July 2026 
 
 **Program Committee**
 - Marianna Girlando 
