@@ -473,10 +473,10 @@
 		<li><a href="#submissions">Submissions</a></li>
 		<li><a href="#dates">Dates</a></li>
 	<!--	<li><a href="#colocation">Colocation</a></li> -->
-   		<li><a href="#registration">Registration</a></li>
+   		<li><a href="#registration">Registration</a></li><br>
 	<!--	<li><a href="#local">Local Info</a></li> -->
-		<li><a href="#pc">Program Committee</a></li>
-		<li><a href="#organisation">Organisation</a></li>
+		<li style="border-left:none;"><a href="#pc">Program Committee</a></li>
+	<!--	<li><a href="#organisation">Organisation</a></li> -->
 	<!--	<li><a href="#contact">Contact</a></li> -->
 		<!--	<li><a href="#sponsorship">Sponsorship</a></li> -->
 		<li><a href="index_files/1st-call-for-abstracts.pdf">Call for Abstracts</a>
@@ -512,8 +512,8 @@
 	 <div class="content"> 
 	   <h2>Invited Speakers</h2>
 	   <ul>
-	     <li> <a href="https://comp.anu.edu.au/people/ranald-clouston/"> Ranald Clouston</a> (ANU, Canberra, Australia)
-	     <li> <a href="https://www.cs.mcgill.ca/~bpientka/"> Brigitte Pientka</a> (McGill University, Montreal, Canada)
+	     <li> <a href="https://comp.anu.edu.au/people/ranald-clouston/"> Ranald Clouston</a>, ANU, Canberra, Australia
+	     <li> <a href="https://www.cs.mcgill.ca/~bpientka/"> Brigitte Pientka</a> McGill University, Montreal, Canada
 	  <!--   
 	     <li> <a href="https://www.cs.bham.ac.uk/~mhe/">Martin Escardo</a> (University of Birmingham) <br>
 	     <i>Topology in constructive mathematics and computation</i></li>
@@ -909,8 +909,7 @@
 	<div class="content">
 	  <h2>Important Dates</h2>
 	  <ul>
-	    <li>
-	      <b>Abstract deadline:</b> 23 April 2026 </li>
+	    <li><b>Abstract deadline:</b> 23 April 2026 </li>
 	      <!-- <del>17 May 2024</del> <b style="color: red;">24 May 2024</b> <a href="https://www.timeanddate.com/time/zones/aoe">AoE</a> (<i>extended</i>)</li> </li> -->
 	    <li><b>Notification:</b> 23 May 2026 </li>
             <li><b>Final versions:</b> To be announced. <!-- <del>10 August 2024</del> -->
@@ -980,31 +979,30 @@
 
 	<div class="content">
 	  <h2>Program Committee</h2>
-<p>To be announced.
-<!-- 
-Anupam Das (University of Birmingham) <br>
-Paul Blain Levy (University of Birmingham) <br>
-Sonia Marin (University of Birmingham) <br>
-Omar Leon Sanchez (University of Manchester) <br>
-Paul Shafer (University of Leeds) <br>
-Sara Uckelman (Durham University)
--->
-</p>
-
+	  <p>
+	    <a href="https://www.mariannagirlando.com/">Marianna Girlando</a>, University of Amsterdam, Netherlands<br>
+	    <a href="https://louglzhuesca.github.io/">Lourdes González-Huesca</a>, UNAM, Mexico<br>	
+	    <a href="https://www.jimdegroot.com/">Jim de Groot</a>, University of Bern, Switzerland <br>
+	    <a href="https://filipendule.github.io/">Sonia Marin</a>, University of Birmingham, UK (co-chair)<br>
+	    <a href="https://leonardopacheco.xyz/">Leonardo Pacheco</a>, Institue of Science Tokyo, Japan <br>
+	    <a href="https://vcvpaiva.github.io/">Valeria de Paiva</a>, Topos Institute, USA (co-chair) <br>
+	    <a href="https://github.com/ianshil/">Ian Shillito</a>, University of Birmingham, UK <br>       	
+	    <a href="https://nachivpn.me/">Nachi Valliappan</a>, University of Edinburgh, UK <br>   
+	  </p>
 	</div>
       </div>
 	  
 
-	  
+	<!--  
       <div id="organisation">
 	<div class="content">
 	  <h2>Organisation</h2>
 	  <p> 
-	      <a href="https://filipendule.github.io/">Sonia Marin</a>, University of Birmingham.<br>
-	      <a href="https://vcvpaiva.github.io/">Valeria de Paiva</a>, Topos Institute.
+	      <a href="https://filipendule.github.io/">Sonia Marin</a> (University of Birmingham, UK)<br>
+	      
 	  </p>
 	</div>
-      </div>
+      </div> -->
       
     <!-- <div id="contact">
         <div class="content">
