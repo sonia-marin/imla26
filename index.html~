@@ -530,25 +530,25 @@
 	  <h2>List of accepted talks</h2>
 	  <ul>
 	    <li>
-	    Cut-free Proof Theory for Intuitionistic PDL<br>
+	    <i>Cut-free Proof Theory for Intuitionistic PDL</i><br>
 	    Bahareh Afshari (University of Gothenburg) and
 	    Paaras Padhiar (University of Birmingham)
 	    </li>
 
 	    <li>
-	    Polytopological Semantics for Intuitionistic Modal Logics<br>
+	    <i>Polytopological Semantics for Intuitionistic Modal Logics</i><br>
 	    Juan Aguilera (TU Wien),
 	    David Fernández-Duque (Universitat de Barcelona) and
 	    Leonardo Pacheco (Institute of Science Tokyo) 
 	    </li>
 
 	    <li>
-	    Higher-order Kripke models for intuitionistic and other non-classical modal logics<br>
+	    <i>Higher-order Kripke models for intuitionistic and other non-classical modal logics</i><br>
 	    Victor Barroso-Nascimento (University College London)
 	    </li>
 
 	    <li>
-	    Second-order Intuitionistic Tense Logic<br>
+	    <i>Second-order Intuitionistic Tense Logic</i><br>
 	    Justus Becker (University of Birmingham),
 	    Anupam Das (University of Birmingham),
 	    Sonia Marin (University of Birmingham) and
@@ -556,22 +556,22 @@
 	    </li>
 
 	    <li>
-	    Towards a labelled natural deduction for Constructive Modal Logics<br>
+	    <i>Towards a labelled natural deduction for Constructive Modal Logics</i><br>
 	    Yll Buzoku (University College London)
 	    </li>
 
 	    <li>
-	    Weak constructive modal logics systematised<br>
+	    <i>Weak constructive modal logics systematised</i><br>
 	    Tiziano Dalmonte (Free University of Bozen-Bolzano) 
 	    </li>
 
 	    <li>
-	    Towards a logical characterization of Effectful Contextual Modal Type Theory<br>
+	    <i>Towards a logical characterization of Effectful Contextual Modal Type Theory</i><br>
 	    Andrea De Domenico (IMDEA Software Institute, Madrid)
 	    </li>
 
 	    <li>
-	    An Unfinished Story: Decidability of IS4<br>
+	    <i>An Unfinished Story: Decidability of IS4</i><br>
 	    Marianna Girlando (University of Amsterdam, University of Southern Denmark),
 	    Roman Kuznets (Czech Academy of Sciences),
 	    Sonia Marin (University of Birmingham) and
@@ -579,43 +579,43 @@
 	    </li>
 
 	    <li>
-	    Gödel coding on fibrations and geminal categories<br>
+	    <i>Gödel coding on fibrations and geminal categories</i><br>
 	    Yuto Ikeda (The University of Tokyo)
 	    </li>
 
 	    <li>
-	    A Value Trick for Modal Type Systems<br>
+	    <i>A Value Trick for Modal Type Systems</i><br>
 	    Anton Lorenzen (University of Edinburgh),
 	    Wenhao Tang (University of Edinburgh) and
 	    Sam Lindley (University of Edinburgh)
 	    </li>
 
 	    <li>
-	    Coderivative intuitionistic logics of topological and bimetric spaces<br>
+	    <i>Coderivative intuitionistic logics of topological and bimetric spaces</i><br>
 	    Yoàv Montacute (National Institute of Informatics) and
 	    Leonardo Pacheco (Institute of Science Tokyo)
 	    </li>
 
 	    <li>
-	    The Complexity of the Constructive Master Modality<br>
+	    <i>The Complexity of the Constructive Master Modality</i><br>
 	    Sofía Santiago-Fernández (Universitat de Barcelona),
 	    David Fernández-Duque (Universitat de Barcelona) and
 	    Joost J. Joosten (Universitat de Barcelona)
 	    </li>
 
 	    <li>
-	    On the proof theory of constructive µ-calculus<br>
+	    <i>On the proof theory of constructive µ-calculus</i><br>
 	    Luca Sauter (University of Gothenburg)
 	    </li>
 
 	    <li>
-	    Cover Semantics for Fitch-Style Modal Natural Deduction<br>
+	    <i>Cover Semantics for Fitch-Style Modal Natural Deduction</i><br>
 	    Ian Shillito (University of Birmingham) and
 	    Nachiappan Valliappan (University of Edinburgh)
 	    </li>
 
 	    <li>
-	    Equality of proofs in substructural intuitionistic modal logics<br>
+	    <i>Equality of proofs in substructural intuitionistic modal logics</i><br>
 	    Michel Smykalla (Tallinn University of Technology),
 	    Tarmo Uustalu (Reykjavik University and Tallinn University of Technology),
 	    Niccolò Veltri (Tallinn University of Technology) and
@@ -623,20 +623,20 @@
 	    </li>
 
 	    <li>
-	    KE-style tableaux for a family of intuitionistic modal logics<br>
+	    <i>KE-style tableaux for a family of intuitionistic modal logics</i><br>
 	    Martin Sztajn (Departamento de Ciencias de la Computación, UBA),
 	    Alejandro Javier Solares Rojas (Instituto de Ciencias de la Computación, CONICET-UBA) and
 	    Ricardo Oscar Rodriguez (Departamento de Ciencias de la Computación, UBA)
 	    </li>
 
 	    <li>
-	    Proof-relevant Kripke semantics of µML via fixpoints of containers<br>
+	    <i>Proof-relevant Kripke semantics of µML via fixpoints of containers</i><br>
 	    Sean Watters (University of Strathclyde; Coherence Research Ltd) and
 	    Ezra Schoen (University of Strathclyde)
 	    </li>
 
             <li>
-	    Contextual Modal MetaML: Syntax and Full Abstraction<br>
+	    <i>Contextual Modal MetaML: Syntax and Full Abstraction</i><br>
 	    Haoxuan Yin (University of Oxford),
 	    Andrzej Murawski (University of Oxford) and
 	    Luke Ong (Nanyang Technological University) 
